@@ -4,7 +4,7 @@
     "fmt": "prettier --write **/*.md"
   },
   "devDependencies": {
-    "mystmd": "^1.8.2",
+    "mystmd": "^1.11.0",
     "prettier": "^3.8.1"
   }
 }
