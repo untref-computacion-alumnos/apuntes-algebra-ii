@@ -1,0 +1,58 @@
+# Ver documentación en: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Apuntes de Base de Datos
+  description: Apuntes de Base de Datos de la carrera Ingeniería en Computación (UNTREF)
+  keywords:
+    - untref
+    - ingeniería en computación
+    - base de datos
+  authors:
+    - name: Gastón Augusto Ribero
+      github: trigologiaa
+  github: untref-computacion-alumnos/apuntes-base-de-datos
+  # bibliography: []
+  toc:
+    - file: contenidos/introduccion.md
+    - title: Materiales
+      children:
+        - file: contenidos/materiales/practica-2-resuelta.md
+    - title: Parciales
+      children:
+        - file: contenidos/materiales/parcial-2024-06-10.md
+        - file: contenidos/materiales/parcial-2024-06-10-resuelto.md
+        - file: contenidos/materiales/recuperatorio-2024-06-24.md
+        - file: contenidos/materiales/recuperatorio-2024-06-24-resuelto.md
+        - file: contenidos/materiales/parcial-2024-11-04.md
+        - file: contenidos/materiales/parcial-2024-11-04-resuelto.md
+        - file: contenidos/materiales/recuperatorio-2024-11-11.md
+        - file: contenidos/materiales/recuperatorio-2024-11-11-resuelto.md
+site:
+  template: book-theme
+  title: Apuntes de Base de Datos
+  options:
+    hide_toc: false
+    hide_footer_links: false
+    hide_outline: false
+    hide_title_block: false
+    hide_authors: false
+    hide_search: false
+    # outline_maxdepth: number
+    twitter: untref
+    favicon: imagenes/sitio/favicon.ico
+    logo_dark: imagenes/sitio/untref-logo-blanco.svg
+    logo: imagenes/sitio/untref-logo-negro.svg
+    logo_text: Base de Datos
+    logo_url: https://www.untref.edu.ar
+    logo_alt: UNTREF - Universidad Nacional de Tres de Febrero
+    # analytics_google: string
+    # analytics_plausible: string
+    # numbered_references: boolean
+    folders: false
+    # internal_domains: string
+    # style: file
+  # nav: []
+  # actions:
+  #   - title: Learn More
+  #     url: https://mystmd.org/guide
+  # domains: []

@@ -1,0 +1,14 @@
+- Sistemas de coordenadas: cartesianas, polares, cilíndricas y esféricas.
+- Cambio de coordenadas.
+- Parametrización de curvas planas.
+- Secciones cónicas: circunferencia, elipse, hipérbola y parábola.
+- Vectores.
+- Operaciones algebraicas con vectores.
+- Norma.
+- El producto punto.
+- El producto cruz.
+- Rectas y planos en el espacio.
+- Ajuste por mínimos cuadrados.
+- Superficies cuádricas: esfera, cilindros, elipsoides, hiperboloides, paraboloides.
+- Perfiles y curvas de nivel.
+- Representación tridimensional.
