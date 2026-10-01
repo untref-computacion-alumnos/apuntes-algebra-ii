@@ -16,17 +16,22 @@ project:
     - file: contenidos/introduccion.md
     - title: Materiales
       children:
-        - file: contenidos/materiales/practica-2-resuelta.md
+        - file: contenidos/materiales/formulas.md
+        - file: contenidos/materiales/examenes/practica-2-resuelta.md
+    - title: Ejercicios para el parcial (Unidades 1-2)
+      children:
+        - file: contenidos/materiales/examenes/ejercicios-unidades-1-2.md
+        - file: contenidos/materiales/examenes/ejercicios-unidades-1-2-resuelto.md
     - title: Parciales
       children:
-        - file: contenidos/materiales/parcial-2024-06-10.md
-        - file: contenidos/materiales/parcial-2024-06-10-resuelto.md
-        - file: contenidos/materiales/recuperatorio-2024-06-24.md
-        - file: contenidos/materiales/recuperatorio-2024-06-24-resuelto.md
-        - file: contenidos/materiales/parcial-2024-11-04.md
-        - file: contenidos/materiales/parcial-2024-11-04-resuelto.md
-        - file: contenidos/materiales/recuperatorio-2024-11-11.md
-        - file: contenidos/materiales/recuperatorio-2024-11-11-resuelto.md
+        - file: contenidos/materiales/examenes/parcial-2024-06-10.md
+        - file: contenidos/materiales/examenes/parcial-2024-06-10-resuelto.md
+        - file: contenidos/materiales/examenes/recuperatorio-2024-06-24.md
+        - file: contenidos/materiales/examenes/recuperatorio-2024-06-24-resuelto.md
+        - file: contenidos/materiales/examenes/parcial-2024-11-04.md
+        - file: contenidos/materiales/examenes/parcial-2024-11-04-resuelto.md
+        - file: contenidos/materiales/examenes/recuperatorio-2024-11-11.md
+        - file: contenidos/materiales/examenes/recuperatorio-2024-11-11-resuelto.md
 site:
   template: book-theme
   title: Apuntes de Base de Datos
